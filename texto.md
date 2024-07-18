@@ -139,7 +139,7 @@
 
    [Imagen de puesta de sol en el horizonte. Selva vista desde mas arriba]
 
-  "En mi isla no hay tantas plantas" le oyes decir.
+  "En Margarita no hay tantas plantas" le oyes decir.
    Su voz no disimula lo que siente: reproche y nostalgia. Te duele.
    Tu tampoco eres de acá, tu tampoco te acostumbras a la selva.
 
