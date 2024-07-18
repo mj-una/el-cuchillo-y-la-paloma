@@ -88,7 +88,7 @@
    _______________________________________________________________________________
 
 
-   [Imagen de letas de neon con la palabra "ELIGE". Parpadean y luego se prenden]
+   [Imagen: cartel de neon con la palabra "ELIGE". Parpadea y luego se prende]
 
    Estás delirando, nada es real, pero las letras brillan con luz propia
    y te atrapan. "Elige". Hay siete caminos, y solo uno te corresponde.
@@ -113,7 +113,7 @@
    _______________________________________________________________________________
 
 
-   [Imagen de ojo abriendose]
+   [Imagen: ojo abriendose]
 
   "Hola, que bueno que despertaste.
    No te puedo seguir cargando, no me quedan fuerzas.
@@ -125,7 +125,7 @@
    _______________________________________________________________________________
 
 
-   [Imagen de plantas vistas desde abajo y nubes al fondo]
+   [Imagen: plantas vistas desde abajo y nubes al fondo]
 
    Con fiebre todo parece un sueño. Despertar es parte de la ilusión.
    El cuerpo hierve, la selva hierve, Margarita pronto hervirá también.
@@ -137,7 +137,7 @@
    _______________________________________________________________________________
 
 
-   [Imagen de puesta de sol en el horizonte. Selva vista desde mas arriba]
+   [Imagen: puesta de sol en el horizonte. Selva vista desde mas arriba]
 
   "En Margarita no hay tantas plantas" le oyes decir.
    Su voz no disimula lo que siente: reproche y nostalgia. Te duele.
@@ -149,7 +149,7 @@
    _______________________________________________________________________________
 
 
-   [Imagen de paloma cruzando el horizonte antes de que se haga de noche]
+   [Imagen: paloma cruzando el horizonte antes de que se haga de noche]
 
    Llega la oscuridad. Pronto el silencio será absoluto.
    Es peligroso dormir a la intemperie, lo sabemos. ¿Y qué?
