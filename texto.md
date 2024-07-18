@@ -188,18 +188,17 @@
    _______________________________________________________________________________
 
 
-   [Imagen 1: ]
-   [Imagen 2: ]
-   [Imagen 3: ]
-   [Imagen 4: ]
-   [Imagen 5: montaje rapido de tiroteo en una ciudad caotica]
-   [Imagen 6: cara de la paloma de costado. Ojo abierto]
+   [Imagen 1: silueta de persona subiendo al escenario]
+   [Imagen 2: primer plano de ojos sorprendidos]
+   [Imagen 3: paloma vuela hacia el techo del escenario]
+   [Imagen 4: montaje rapido de tiroteo en una ciudad caotica]
+   [Imagen 5: cara de la paloma de costado. Ojo abierto]
 
-   Alguien se ofrece, alguien sube la escalera. [Imagen 1] Eres tú. [Imagen 2] "¿Yo?" [Imagen 3]
-   El mago suelta la paloma, que vuela pesada y torpe intentando escapar. [Imagen 4]
-   El mago lanza el cuchillo, que acierta inevitablemente en su objetivo. [Imagen 5]
+   Alguien se ofrece, alguien sube la escalera. Eres tú. [Imagen 1] "¿Yo?" [Imagen 2]
+   El mago suelta la paloma, que vuela pesada y torpe intentando escapar. [Imagen 3]
+   El mago lanza el cuchillo, que acierta inevitablemente en su objetivo. [Imagen 4]
 
-   La paloma cae en tus manos. Está muerta. [Imagen 6]
+   La paloma cae en tus manos. Está muerta. [Imagen 5]
    Lloras.
 
    _______________________________________________________________________________
@@ -209,11 +208,11 @@
   [Imagen 2: fondo negro]
 
   "¿Qué esperabas acaso?" pregunta el mago. Silencio, la selva se calla. [Imagen 1]
-  "Todo empezó con [insertar frase seleccionada], lo sabes bien. Pobre la Pocha,
-   que descanse en paz". Despiertas. Esta será la última vez, por fin.
-
+  "Todo empezó con [insertar frase seleccionada], lo sabes bien."
+   Pobre la Pocha, que en paz descanse. Duele como una puñalada.
+   
+   Despiertas. Esta será la última vez, por fin.
   "Ahora es tu turno de ser paloma. Intenta volar" [Imagen 2]
-
 
    _______________________________________________________________________________
 
@@ -221,8 +220,8 @@
    [Fondo negro]
 
    No hay luna, y no se ven las estrellas. Debe estar nublado.
-   Pareciera que fue ayer cuando te mandaron a borrarle la fecha
-   a [insertar frase seleccionada]. Y así se murió la Pocha. Y así empezó todo.
+   Pareciera que fue ayer cuando te mandaron a borrarle la fecha a [insertar frase seleccionada].
+   Y así se murió la Pocha, la primera en contagiarse. Y así empezó todo.
 
    La cuarentena llegó tarde, como siempre.
    De este virus no escapará nadie.
