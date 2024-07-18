@@ -119,7 +119,7 @@
    No te puedo seguir cargando, no me quedan fuerzas.
    Vamos a tener que prepararnos para pasar la noche."
 
-  "Gracias, Margarita"
+  "Gracias, Margarita" respondes con un susurro.
 
 
    _______________________________________________________________________________
