@@ -183,7 +183,7 @@
    Margarita y yo tuvimos suerte: robamos un bote, nos perdimos por el río.
 
    En realidad no, no escapamos, nadie lo hizo.
-   Traemos el virus adentro."
+   Traemos el virus adentro.
 
    _______________________________________________________________________________
 
@@ -226,13 +226,13 @@
   "Todo empezó con [insertar frase seleccionada], lo sabes bien."
    Pobre la Pocha, que en paz descanse. Duele como una puñalada.
    
-   Despiertas. Esta será la última vez, por fin.
-  "Ahora es tu turno de ser paloma. Intenta volar" [Imagen 2]
+   Despiertas. Esta será la última vez, por fin. [Imagen 2]
+  "Ahora es tu turno de ser paloma. Intenta volar"
 
    _______________________________________________________________________________
 
 
-   [Fondo negro]
+   [Fondo negro, con movimientos difusos]
 
    No hay luna, y no se ven las estrellas. Debe estar nublado.
    Pareciera que fue ayer, cuando me mandaron a borrarle la fecha a [insertar frase seleccionada].
