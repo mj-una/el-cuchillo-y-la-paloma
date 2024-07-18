@@ -106,8 +106,8 @@
 
    [Imagen: cartel de neon con la palabra "ELIGE". Parpadea y luego se prende]
 
-   Estás delirando, nada es real, pero las letras brillan con luz propia
-   y te atrapan. "Elige". Hay siete caminos, y solo uno te corresponde.
+   Nada es real, pero las letras brillan con luz propia y te atrapan.
+   Estás delirando. "Elige". Hay siete caminos, y solo uno te corresponde.
    Llegó el momento de hacer algo, llegó el momento, por fin.
 
    Tomar el camino número: [del 1 al 7]
