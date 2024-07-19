@@ -71,7 +71,7 @@
     . .| $$ . . | $$__  $$. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
    . . | $$. . .| $$ .| $$ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     . .| $$$$$$ | $$. | $$. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-   . . |______/ |__/ .|__/ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+   . . |______/.|__/ .|__/ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
    . . ./$$$$$$$ . ./$$$$$$. ./$$. . . ./$$$$$$. ./$$. . . /$$ . /$$$$$$ . . . . . . . . . . . . . .
     . .| $$__  $$ ./$$__  $$.| $$ . . ./$$__  $$.| $$$. . /$$$. /$$__  $$ . . . . . . . . . . . . . 
@@ -84,6 +84,7 @@
    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
    [Transicion a fondo negro]
+
 
    _______________________________________________________________________________
 
@@ -113,7 +114,7 @@
    Tomar el camino número: [del 1 al 7]
 
    {
-     ESTA LA UNICA PARTE QUE NO ES TEXTO PLANO (invisible para usuarix)
+     INVISIBLE DESDE VISTA FINAL (esta es la unica parte que no es texto plano)
      dependiendo del lo que se responda se guardará una frase para usarla en el final.
 
      camino 1 -> "esa soda Manaos"
@@ -173,6 +174,7 @@
    El virus no descansa. Tal vez sea mi última noche...
    O tal vez me queden unas pocas más.
 
+
    _______________________________________________________________________________
 
 
@@ -184,6 +186,7 @@
 
    En realidad no, no escapamos, nadie lo hizo.
    Traemos el virus adentro.
+
 
    _______________________________________________________________________________
 
@@ -216,6 +219,7 @@
    La paloma cae en tus manos. Está muerta. [Imagen 5]
    Lloras.
 
+
    _______________________________________________________________________________
 
 
@@ -229,6 +233,7 @@
    Despiertas. Esta será la última vez, por fin. [Imagen 2]
   "Ahora es tu turno de ser paloma. Intenta volar"
 
+
    _______________________________________________________________________________
 
 
@@ -240,6 +245,7 @@
 
    La cuarentena llegó tarde, como siempre.
    De este virus no escapará nadie.
+
 
    _______________________________________________________________________________
 
