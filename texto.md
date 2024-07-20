@@ -250,7 +250,7 @@
    _______________________________________________________________________________
 
 
-   [Fondo negro]
+   [Letras impresas que dicen: "VENCE 25/10/25". Un dedo pasa un trapo y las borra]
 
   "El cuchillo y la paloma"
    Con mucho cariño, para todas las señoras Pochas.
