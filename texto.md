@@ -169,7 +169,7 @@
 
    Llega la oscuridad. Pronto el silencio será absoluto.
    Es peligroso dormir a la intemperie, pero ¿qué importa?
-   ¿Qué puede ser peor que la muerte lenta que nos espera?
+   ¿Qué puede ser peor que la muerte lenta que les espera?
 
    El virus no descansa. Tal vez sea tu última noche...
    O tal vez me quedan unas pocas más.
