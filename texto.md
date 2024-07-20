@@ -241,7 +241,7 @@
 
    No hay luna, y no se ven las estrellas. Debe estar nublado.
    Pareciera que fue ayer, cuando me mandaron a borrarle la fecha a [insertar frase seleccionada].
-   Y así se murió la Pocha, la primera en contagiarse. Y así empezó todo.
+   Y así se murió la Pocha, la primera en enfermarse. Y así empezó todo.
 
    La cuarentena llegó tarde, como siempre.
    De este virus no escapará nadie.
