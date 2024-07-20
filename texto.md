@@ -114,8 +114,8 @@
    Tomar el camino número: [del 1 al 7]
 
    {
-     INVISIBLE DESDE VISTA FINAL (esta es la unica parte que no es texto plano)
-     dependiendo del lo que se responda se guardará una frase para usarla en el final.
+     INVISIBLE PARA USUARIX FINAL (esta es la unica parte del borrador que no es texto plano)
+     dependiendo del lo que se haya respondido se guardará una frase para usarla en el final:
 
      camino 1 -> "esa soda Manaos"
      camino 2 => "ese jamón Paladini"
