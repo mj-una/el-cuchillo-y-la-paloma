@@ -155,7 +155,7 @@
 
    [Imagen: puesta de sol en el horizonte. Selva vista desde mas arriba]
 
-  "En Margarita no hay tantas plantas" le oyes decir.
+  "En Margarita hay menos plantas" le oyes decir.
    Su voz no disimula lo que siente: reproche y nostalgia. Te duele.
    Tu tampoco eres de acá, tu tampoco te acostumbras a la selva.
 
@@ -168,11 +168,11 @@
    [Imagen: paloma cruzando el horizonte antes de que se haga de noche]
 
    Llega la oscuridad. Pronto el silencio será absoluto.
-   Es peligroso dormir a la intemperie, lo sabemos. ¿Y qué?
+   Es peligroso dormir a la intemperie, pero ¿qué importa?
    ¿Qué puede ser peor que la muerte lenta que nos espera?
 
-   El virus no descansa. Tal vez sea mi última noche...
-   O tal vez me queden unas pocas más.
+   El virus no descansa. Tal vez sea tu última noche...
+   O tal vez me quedan unas pocas más.
 
 
    _______________________________________________________________________________
@@ -184,7 +184,7 @@
    Las ciudades colapsaron el año pasado. Pocas personas lograron escapar.
    Margarita y yo tuvimos suerte: robamos un bote, nos perdimos por el río.
 
-   En realidad no, no escapamos, nadie lo hizo.
+   En realidad no, no escapamos. Nadie lo hizo.
    Traemos el virus adentro.
 
 
