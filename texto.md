@@ -172,7 +172,7 @@
    ¿Qué puede ser peor que la muerte lenta que les espera?
 
    El virus no descansa. Tal vez sea tu última noche...
-   O tal vez me quedan unas pocas más.
+   O tal vez te quedan unas pocas más.
 
 
    _______________________________________________________________________________
@@ -184,7 +184,7 @@
    Las ciudades colapsaron el año pasado. Pocas personas lograron escapar.
    Margarita y yo tuvimos suerte: robamos un bote, nos perdimos por el río.
 
-   En realidad no, no escapamos. Nadie lo hizo.
+   En realidad no, no escapamos, nadie lo hizo.
    Traemos el virus adentro.
 
 
