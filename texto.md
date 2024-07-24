@@ -283,7 +283,7 @@
    https://openprocessing.org/sketch/2148594
 
    - video con ASCII (tutorial p5.js)
-   https://thecodingtrain.com/challenges/166-image-to-ascii
+   https://youtu.be/4IyeLc6J1Uo?si=8BYFGvXjfamitToF
 
    - la selva que imagino
    https://drive.google.com/file/d/1eFH56JKrpzxSfRtrEPSh4IIFkPcRMM63/view?usp=sharing
