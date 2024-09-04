@@ -114,7 +114,7 @@
    Tomar el camino número: [del 1 al 7]
 
    {
-     INVISIBLE PARA USUARIX FINAL (esta es la unica parte del borrador que no es texto plano)
+     INVISIBLE PARA USUARIX
      dependiendo del lo que se haya respondido se guardará una frase para usarla en el final:
 
      camino 1 -> "esa soda Manaos"
@@ -277,7 +277,10 @@
    _____________________________________________________________________________
 
 
-   Referencias visuales para las imagenes:
+   Referencias visuales:
+
+   - prototipo online (apretar boton verde de run y agrandar pestaña de abajo)
+   https://onlinegdb.com/Ki7bPYN8h
 
    - filtro tipo pantallas LCD
    https://openprocessing.org/sketch/2148594
